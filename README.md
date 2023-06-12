@@ -127,8 +127,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Jenis |Penerangan |  Fail |
 | :-----: | ------ | ------ | :-----: | 
 | 1 | TOR | Pengurusan Knowledge Management System | <a href="./download/tor_kms.pdf" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
-| 2 | TOR | Kajian Pembangunan Model serta Kerangka
-bagi Analisis Data Raya dan Pelaporan Bersepadu | <a href="./download/janm.pdf" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
+| 2 | TOR | Kajian Pembangunan Model serta Kerangka bagi Analisis Data Raya dan Pelaporan Bersepadu | <a href="./download/janm.pdf" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
 | 3 | TOR | Pembangunan Migrasi MeLGIS Melaka| <a href="./download/TOR_SMG-Melaka.pdf" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
 | 4 | Tender | Kajian ISP Johor 2018-2022 | <a href="./download/ISP.pdf" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
 | 5 | Tender | Pembangunan sistem repositori penerbitan ilmiah Malaysia (MYSITASI) | <a href="./download/MySitasi.pdf" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
