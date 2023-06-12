@@ -46,9 +46,7 @@ Don't forget to hit the :star: if you like this repo.
 - (e) Justifikasi Projek/Kajian;
 - (f) Sejarah Projek/Kajian (apa yang telah dilakukan setakat ini dan oleh siapa)(jika berkaitan);
 - (g) Senarai Projek/Kajian yang berkaitan dan maklumat asas;
-- (h) Justifikasi keperluan perkhidmatan perunding
-
- dalam Projek/Kajian;
+- (h) Justifikasi keperluan perkhidmatan perunding dalam Projek/Kajian;
 - (i) Tempoh pelaksanaan Projek/Kajian; dan
 - (j) Sumber pembiayaan
 
