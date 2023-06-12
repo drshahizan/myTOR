@@ -124,12 +124,11 @@ Don't forget to hit the :star: if you like this repo.
 
 # Fail
 
-| No | Topik |  Fail |
-| :-----: |  ------ | :-----: | 
-| 1 | TOR Pengurusan Knowledge Management System |  <a href="./download/tor_kms.pdf" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
-| 2 | TOR Pembangunan Migrasi MeLGIS Melaka| <a href="./download/TOR_SMG-Melaka.pdf" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
-| 3 | System Design Descriptions (SDD) | <a href="./download/" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
-| 4 | System Test Descriptions (STD)| <a href="./download/" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
+| No | Jenis |Penerangan |  Fail |
+| :-----: | ------ | ------ | :-----: | 
+| 1 | TOR | Pengurusan Knowledge Management System | <a href="./download/tor_kms.pdf" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
+| 2 | TOR | Pembangunan Migrasi MeLGIS Melaka| <a href="./download/TOR_SMG-Melaka.pdf" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
+| 3 | Tender | Kajian ISP Johor 2018-2022 | <a href="./download/ISP.pdf" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/myTOR/issues) for any improvements, suggestions or errors in the content.
