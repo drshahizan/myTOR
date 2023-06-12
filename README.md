@@ -91,9 +91,7 @@ Don't forget to hit the :star: if you like this repo.
 
 8.1 Deliverables yang perlu disediakan oleh perunding adalah seperti berikut:
 - (a) Laporan Inception / Konsep /Awalan;
-- (b)
-
- Laporan Kemajuan Bulanan/Interim;
+- (b) Laporan Kemajuan Bulanan/Interim;
 - (c) Laporan Akhir;
 - (d) Laporan Kebenaran Merancang (bagi tujuan kelulusan perancangan pihak berkuasa tempatan – planning permission);
 - (e) Laporan Cadangan Pembangunan (bagi tujuan kelulusan pembangunan pihak berkuasa tempatan – development order);
