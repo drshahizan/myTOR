@@ -81,7 +81,7 @@ Don't forget to hit the :star: if you like this repo.
 - (b) Kajian – bermula daripada pelantikan sehingga laporan akhir diterima dan dipersetujui oleh Agensi; dan
 - (c) Kerja Ukur – bermula daripada pelantikan sehingga pelan ukur (survey plan) siap dan dipersetujui oleh Agensi.
 
-## 7.0 Kaedah PenetapanKos Perkhidmatan Perunding**
+## 7.0 Kaedah PenetapanKos Perkhidmatan Perunding
 
 7.1 Penetapan kos perkhidmatan perunding bagi projek/kajian Kerajaan hendaklah menggunapakai kaedah seperti di Bab 5 (Kos Perkhidmatan Perunding) dan Bab 20 (Perunding Asing) di dalam Manual Perolehan Perkhidmatan Perunding Edisi 2011
 
@@ -104,13 +104,13 @@ Don't forget to hit the :star: if you like this repo.
 - (n) Laporan Pembaikan Kecacatan; dan
 - (o) Lain-lain output yang bersesuaian mengikut keperluan projek/kajian
 
-## 9.0 Maklumat yang boleh disediakan oleh Agensi kepada Perunding**
+## 9.0 Maklumat yang boleh disediakan oleh Agensi kepada Perunding
 
 9.1 Agensi boleh menyediakan data-data atau maklumat-maklumat berkaitan bagi membantu perunding memahami keperluan projek/kajian dengan lebih baik.
 
 9.2 Agensi hendaklah mengingatkan perunding untuk menjaga, mengawas, dan mengawal semua rahsia Kerajaan selaras dengan Akta Rahsia Rasmi 1972 (Akta 88).
 
-## 10.0 Brif Projek (Bagi Projek Pembangunan Fizikal)**
+## 10.0 Brif Projek (Bagi Projek Pembangunan Fizikal)
 
 10.1 Brif projek adalah untuk mendokumenkan dan memperjelaskan kepada Agensi Pelaksana dan perunding segala keperluan sesuatu pembangunan dari perspektif pengguna.
 
