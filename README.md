@@ -8,7 +8,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # PENYEDIAAN TERMA RUJUKAN
 
-**1.0 Kepentingan Terma Rujukan**
+## 1.0 Kepentingan Terma Rujukan
 
 1.1 Terma Rujukan (Terms of Reference - TOR) adalah kandungan utama yang diperlukan di dalam Dokumen Pelawaan.
 
@@ -18,7 +18,7 @@ Don't forget to hit the :star: if you like this repo.
 
 1.4 Agensi bertanggungjawab memastikan TOR yang disediakan hendaklah disemak dan diluluskan oleh JPP terlebih dahulu sebelum sebarang proses perolehan dilaksanakan.
 
-**2.0 Rangka Terma Rujukan**
+## 2.0 Rangka Terma Rujukan
 
 2.1 TOR hendaklah mengandungi sekurang-kurangnya perkara-perkara berikut:
 - (a) Latar belakang projek/kajian
@@ -36,7 +36,7 @@ Don't forget to hit the :star: if you like this repo.
 - (b) Objektif pelantikan perunding
 - (c) Skop perkhidmatan perunding
 
-**3.0 Latar Belakang Projek/Kajian**
+## 3.0 Latar Belakang Projek/Kajian
 
 3.1 Latar belakang projek/kajian hendaklah mengandungi sekurang-kurangnya perkara-perkara berikut:
 - (a) Nama Projek/Kajian;
@@ -52,7 +52,7 @@ Don't forget to hit the :star: if you like this repo.
 - (i) Tempoh pelaksanaan Projek/Kajian; dan
 - (j) Sumber pembiayaan
 
-**4.0 Objektif Pelantikan**
+## 4.0 Objektif Pelantikan
 
 4.1 TOR perlu menjelaskan dengan tepat objektif/tujuan dan hasil yang diharapkan daripada perunding adalah seperti berikut:
 - (a) Penyediaan program pembangunan;
@@ -64,7 +64,7 @@ Don't forget to hit the :star: if you like this repo.
 - (g) Pengumpulan dan analisis data; dan
 - (h) Perkara-perkara yang berkaitan berdasarkan keperluan projek/kajian
 
-**5.0 Skop Perkhidmatan Perunding**
+## 5.0 Skop Perkhidmatan Perunding
 
 5.1 Bidang perkhidmatan perunding yang diperlukan.
 
@@ -74,7 +74,7 @@ Don't forget to hit the :star: if you like this repo.
 
 5.4 Bagi projek pembangunan fizikal, skop perkhidmatan perunding hendaklah dikaitkan dengan keperluan Brif Projek.
 
-**6.0 Tempoh Perkhidmatan Perunding**
+## 6.0 Tempoh Perkhidmatan Perunding
 
 6.1 Penetapan tempoh perkhidmatan perunding adalah berdasarkan jadual pelaksanaan projek pembangunan fizikal/kajian yang disediakan tertakluk kepada skop dan bidang perkhidmatan yang berkaitan.
 
@@ -83,11 +83,11 @@ Don't forget to hit the :star: if you like this repo.
 - (b) Kajian – bermula daripada pelantikan sehingga laporan akhir diterima dan dipersetujui oleh Agensi; dan
 - (c) Kerja Ukur – bermula daripada pelantikan sehingga pelan ukur (survey plan) siap dan dipersetujui oleh Agensi.
 
-**7.0 Kaedah PenetapanKos Perkhidmatan Perunding**
+## 7.0 Kaedah PenetapanKos Perkhidmatan Perunding**
 
 7.1 Penetapan kos perkhidmatan perunding bagi projek/kajian Kerajaan hendaklah menggunapakai kaedah seperti di Bab 5 (Kos Perkhidmatan Perunding) dan Bab 20 (Perunding Asing) di dalam Manual Perolehan Perkhidmatan Perunding Edisi 2011
 
-**8.0 Deliverables (Output yang dihasilkan)**
+## 8.0 Deliverables (Output yang dihasilkan)
 
 8.1 Deliverables yang perlu disediakan oleh perunding adalah seperti berikut:
 - (a) Laporan Inception / Konsep /Awalan;
@@ -108,13 +108,13 @@ Don't forget to hit the :star: if you like this repo.
 - (n) Laporan Pembaikan Kecacatan; dan
 - (o) Lain-lain output yang bersesuaian mengikut keperluan projek/kajian
 
-**9.0 Maklumat yang boleh disediakan oleh Agensi kepada Perunding**
+## 9.0 Maklumat yang boleh disediakan oleh Agensi kepada Perunding**
 
 9.1 Agensi boleh menyediakan data-data atau maklumat-maklumat berkaitan bagi membantu perunding memahami keperluan projek/kajian dengan lebih baik.
 
 9.2 Agensi hendaklah mengingatkan perunding untuk menjaga, mengawas, dan mengawal semua rahsia Kerajaan selaras dengan Akta Rahsia Rasmi 1972 (Akta 88).
 
-**10.0 Brif Projek (Bagi Projek Pembangunan Fizikal)**
+## 10.0 Brif Projek (Bagi Projek Pembangunan Fizikal)**
 
 10.1 Brif projek adalah untuk mendokumenkan dan memperjelaskan kepada Agensi Pelaksana dan perunding segala keperluan sesuatu pembangunan dari perspektif pengguna.
 
@@ -125,8 +125,6 @@ Don't forget to hit the :star: if you like this repo.
 - (d) Performance Specification
 - (e) Keperluan kejuruteraan yang diperlukan
 - (f) Lain-lain yang bersesuaian
-
-Sila ambil perhatian bahawa penulisan ini menggunakan format Markdown. Anda boleh menyalin dan menampilkannya dalam format yang sesuai untuk markdown file.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/myTOR/issues) for any improvements, suggestions or errors in the content.
