@@ -6,7 +6,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-Terma Rujukan (TOR)
+# Terma Rujukan (TOR)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/myTOR/issues) for any improvements, suggestions or errors in the content.
