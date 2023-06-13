@@ -126,7 +126,7 @@ Brif projek sewajarnya menjelaskan keperluan terperinci projek termasuk hubung k
 
 | No | Jenis |Penerangan |  Fail |
 | :-----: | ------ | ------ | :-----: | 
-| 1 | Doc | Penerangan berkaitan Terma Rujukan| <a href="./download/tor_desc.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
+| 1 | Dokumen | Penerangan berkaitan Terma Rujukan| <a href="./download/tor_desc.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
 | 2 | TOR | Pengurusan Knowledge Management System | <a href="./download/tor_kms.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
 | 3 | TOR | Kajian Pembangunan Model serta Kerangka bagi Analisis Data Raya dan Pelaporan Bersepadu | <a href="./download/TOR_janm.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
 | 4 | TOR | Pembangunan Migrasi MeLGIS Melaka| <a href="./download/TOR_SMG-Melaka.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
@@ -134,7 +134,9 @@ Brif projek sewajarnya menjelaskan keperluan terperinci projek termasuk hubung k
 | 6 | Tender | Pembangunan Sistem Repositori Penerbitan Ilmiah Malaysia (MYSITASI) | <a href="./download/MySitasi.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
 | 7 | Tender | Sistem Pengurusan Bersepadu, Akademi Pencegahan Rasuah Malaysia | <a href="./download/MACA.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
 | 8 | Tender | Sistem eAudit | <a href="./download/eAudit.xlsx" ><img src="./images/xlsx64.png" width="24px" height="24px" ></a> |
-| 9 | Tender | Sistem eAudit | <a href="./download/eAudit.xlsx" ><img src="./images/xlsx64.png" width="24px" height="24px" ></a> | 
+| 9 | Pekeliling | Perolehan Perunding Secara Am  | <a href="./download/PK3.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
+| 10 | ISP | Pelan Strategik Pendigitalan, JAN   | <a href="./download/ISP_jan.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
+| 11 | ISP | Pelan Strategik ICT, SPRM   | <a href="./download/ISP_sprm.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/myTOR/issues) for any improvements, suggestions or errors in the content.
