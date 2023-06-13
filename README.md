@@ -126,13 +126,13 @@ Brif projek sewajarnya menjelaskan keperluan terperinci projek termasuk hubung k
 
 | No | Jenis |Penerangan |  Fail |
 | :-----: | ------ | ------ | :-----: | 
-| 1 | Doc | Penerangan berkaitan Terma Rujukan| <a href="./download/tor_desc.pdf" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
-| 1 | TOR | Pengurusan Knowledge Management System | <a href="./download/tor_kms.pdf" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
-| 2 | TOR | Kajian Pembangunan Model serta Kerangka bagi Analisis Data Raya dan Pelaporan Bersepadu | <a href="./download/TOR_janm.pdf" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
-| 3 | TOR | Pembangunan Migrasi MeLGIS Melaka| <a href="./download/TOR_SMG-Melaka.pdf" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
-| 4 | Tender | Kajian ISP Johor 2018-2022 | <a href="./download/ISP.pdf" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
-| 5 | Tender | Pembangunan Sistem Repositori Penerbitan Ilmiah Malaysia (MYSITASI) | <a href="./download/MySitasi.pdf" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
-| 6 | Tender | Sistem eAudit | <a href="./download/eAudit.xlsx" ><img src="./images/task.png" width="24px" height="24px" ></a> | 
+| 1 | Doc | Penerangan berkaitan Terma Rujukan| <a href="./download/tor_desc.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
+| 2 | TOR | Pengurusan Knowledge Management System | <a href="./download/tor_kms.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
+| 3 | TOR | Kajian Pembangunan Model serta Kerangka bagi Analisis Data Raya dan Pelaporan Bersepadu | <a href="./download/TOR_janm.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
+| 4 | TOR | Pembangunan Migrasi MeLGIS Melaka| <a href="./download/TOR_SMG-Melaka.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
+| 5 | Tender | Kajian ISP Johor 2018-2022 | <a href="./download/ISP.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
+| 6 | Tender | Pembangunan Sistem Repositori Penerbitan Ilmiah Malaysia (MYSITASI) | <a href="./download/MySitasi.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
+| 7 | Tender | Sistem eAudit | <a href="./download/eAudit.xlsx" ><img src="./images/xlsx64.png" width="24px" height="24px" ></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/myTOR/issues) for any improvements, suggestions or errors in the content.
