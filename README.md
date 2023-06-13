@@ -126,7 +126,7 @@ Brif projek sewajarnya menjelaskan keperluan terperinci projek termasuk hubung k
 
 | No | Jenis |Penerangan |  Fail |
 | :-----: | ------ | ------ | :-----: | 
-| 1 | Doc | Penerangan berkaitan Terma Rujukan| <a href="./download/tor_desc.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
+| 1 | Dokumen | Penerangan berkaitan Terma Rujukan| <a href="./download/tor_desc.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
 | 2 | TOR | Pengurusan Knowledge Management System | <a href="./download/tor_kms.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
 | 3 | TOR | Kajian Pembangunan Model serta Kerangka bagi Analisis Data Raya dan Pelaporan Bersepadu | <a href="./download/TOR_janm.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
 | 4 | TOR | Pembangunan Migrasi MeLGIS Melaka| <a href="./download/TOR_SMG-Melaka.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
