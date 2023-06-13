@@ -10,13 +10,13 @@ Don't forget to hit the :star: if you like this repo.
 
 ## 1.0 Kepentingan Terma Rujukan
 
-1.1 Terma Rujukan (Terms of Reference - TOR) adalah kandungan utama yang diperlukan di dalam Dokumen Pelawaan.
+Terma Rujukan (Terms of Reference - TOR) adalah kandungan utama yang diperlukan di dalam Dokumen Pelawaan.
 
-1.2 TOR yang jelas dan lengkap adalah penting untuk memastikan perunding dapat memahami keperluan projek/kajian yang ingin dilaksanakan dan seterusnya memastikan kelancaran sesuatu projek/kajian. Penyediaan TOR yang baik dapat mengurangkan risiko kelewatan pelaksanaan projek/kajian, tambahan kos atau salah tafsiran ke atas kehendak sebenar Agensi. Selain itu, ia juga akan membantu Agensi dalam membuat anggaran kos perkhidmatan perunding dengan lebih tepat.
+TOR yang jelas dan lengkap adalah penting untuk memastikan perunding dapat memahami keperluan projek/kajian yang ingin dilaksanakan dan seterusnya memastikan kelancaran sesuatu projek/kajian. Penyediaan TOR yang baik dapat mengurangkan risiko kelewatan pelaksanaan projek/kajian, tambahan kos atau salah tafsiran ke atas kehendak sebenar Agensi. Selain itu, ia juga akan membantu Agensi dalam membuat anggaran kos perkhidmatan perunding dengan lebih tepat.
 
-1.3 Agensi bertanggungjawab dalam menyediakan TOR bagi sesuatu projek/kajian yang ingin dilaksanakan. Penyediaan TOR sebaik-baiknya disediakan secara berpasukan, di mana pasukan tersebut terdiri daripada pegawai-pegawai yang berpengetahuan dalam projek/kajian tersebut.
+Agensi bertanggungjawab dalam menyediakan TOR bagi sesuatu projek/kajian yang ingin dilaksanakan. Penyediaan TOR sebaik-baiknya disediakan secara berpasukan, di mana pasukan tersebut terdiri daripada pegawai-pegawai yang berpengetahuan dalam projek/kajian tersebut.
 
-1.4 Agensi bertanggungjawab memastikan TOR yang disediakan hendaklah disemak dan diluluskan oleh JPP terlebih dahulu sebelum sebarang proses perolehan dilaksanakan.
+Agensi bertanggungjawab memastikan TOR yang disediakan hendaklah disemak dan diluluskan oleh JPP terlebih dahulu sebelum sebarang proses perolehan dilaksanakan.
 
 ## 2.0 Rangka Terma Rujukan
 
