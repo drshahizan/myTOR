@@ -139,6 +139,8 @@ Brif projek sewajarnya menjelaskan keperluan terperinci projek termasuk hubung k
 | 11 | ISP | Pelan Strategik ICT, SPRM   | <a href="./download/ISP_sprm.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
 | 12 | PPriSA | Panduan pengurusan projek ICT, Sektor Awam  | <a href="./download/pprisa1.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
 | 13 | PPriSA | Pengurusan Projek ICT Sektor Awam | <a href="./download/pprisa2.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
+| 14 | Contoh | Pembentangan URS | <a href="./download/URS_MACA.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
+| 15 | Contoh | UTM Smart| <a href="./download/UTMSmart.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/myTOR/issues) for any improvements, suggestions or errors in the content.
