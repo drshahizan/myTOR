@@ -135,6 +135,8 @@ Brif projek sewajarnya menjelaskan keperluan terperinci projek termasuk hubung k
 | 7 | Tender | Sistem Pengurusan Bersepadu, Akademi Pencegahan Rasuah Malaysia | <a href="./download/MACA.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
 | 8 | Tender | Sistem eAudit | <a href="./download/eAudit.xlsx" ><img src="./images/xlsx64.png" width="24px" height="24px" ></a> |
 | 9 | Pekeliling | Perolehan Perunding Secara Am  | <a href="./download/PK3.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
+| 10 | ISP | Pelan Strategik Pendigitalan, JAN   | <a href="./download/ISP_jan.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
+| 11 | ISP | Pelan Strategik ICT, SPRM   | <a href="./download/ISP_sprm.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/myTOR/issues) for any improvements, suggestions or errors in the content.
