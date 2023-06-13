@@ -137,6 +137,8 @@ Brif projek sewajarnya menjelaskan keperluan terperinci projek termasuk hubung k
 | 9 | Pekeliling | Perolehan Perunding Secara Am  | <a href="./download/PK3.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
 | 10 | ISP | Pelan Strategik Pendigitalan, JAN   | <a href="./download/ISP_jan.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
 | 11 | ISP | Pelan Strategik ICT, SPRM   | <a href="./download/ISP_sprm.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
+| 12 | PPriSA | Panduan pengurusan projek ICT, Sektor Awam  | <a href="./download/pprisa1.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
+| 13 | PPriSA | Pengurusan Projek ICT Sektor Awam | <a href="./download/pprisa2.pdf" ><img src="./images/pdf.svg" width="24px" height="24px" ></a> | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/myTOR/issues) for any improvements, suggestions or errors in the content.
