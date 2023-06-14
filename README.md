@@ -54,7 +54,7 @@ Latar belakang projek/kajian hendaklah mengandungi sekurang-kurangnya perkara-pe
 
 TOR perlu menjelaskan dengan tepat objektif/tujuan dan hasil yang diharapkan daripada perunding adalah seperti berikut:
 - Penyediaan program pembangunan;
-- enyediaan rekabentuk projek;
+- Penyediaan rekabentuk projek;
 - Penyediaan dokumen dan lukisan tawaran;
 - Pengurusan projek dan penyeliaan pembinaan;
 - Mengadakan Program Pembangunan Kapasiti/Latihan;
